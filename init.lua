@@ -10,4 +10,4 @@ require('maciej.core.colorscheme')
 
 -- load plugin configs
 require('maciej.plugins.luasnip')
-require('maciej.plugins.nvim_cmp')
+require('maciej.plugins.nvim_lsp')
