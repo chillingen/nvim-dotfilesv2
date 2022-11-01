@@ -11,3 +11,7 @@ opt.shiftwidth = 2
 
 -- allow paste from extern
 opt.clipboard = 'unnamed'
+
+-- search options
+opt.ignorecase = true
+opt.smartcase = true
