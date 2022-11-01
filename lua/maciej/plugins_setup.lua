@@ -33,6 +33,9 @@ return packer.startup(function(use)
 	-- luasnip & friendly snippets
 	use("L3MON4D3/LuaSnip")
 	use("rafamadriz/friendly-snippets")
+	-- telescope
+	use("nvim-lua/plenary.nvim")
+	use("nvim-telescope/telescope.nvim")
 
 	if packer_bootstrap then
 		require("packer").sync()
