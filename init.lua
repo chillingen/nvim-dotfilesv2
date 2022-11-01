@@ -9,5 +9,7 @@ require('maciej.core.keymap')
 require('maciej.core.colorscheme')
 
 -- load plugin configs
+
 require('maciej.plugins.luasnip')
 require('maciej.plugins.nvim_lsp')
+require('maciej.plugins.lualine')
