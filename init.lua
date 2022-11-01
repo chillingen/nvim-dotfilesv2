@@ -1,4 +1,4 @@
--- load plugins
+-- load plugin setup ? 
 
 require('maciej.plugins_setup')
 
@@ -8,4 +8,5 @@ require('maciej.core.options')
 require('maciej.core.keymap')
 require('maciej.core.colorscheme')
 
-
+-- load plugins
+require('maciej.plugins.luasnip')
