@@ -14,7 +14,7 @@ keymap.set("n", "<leader>nh", ":nohl<CR>")
 
 keymap.set("n", "<leader>to", ":tabnew<CR>")
 keymap.set("n", "<leader>tx", ":tabclose<CR>")
-keymap.set("n", "<leader>tn", ":tabn<CR>")
+keymap.set("n", "<leader>tn", ":tabnew<CR>")
 keymap.set("n", "<leader>tp", ":tabp<CR>")
 
 -- Telescope binds
